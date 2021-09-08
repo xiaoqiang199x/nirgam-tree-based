@@ -1,0 +1,15 @@
+20210903 $ nirgam_0903_mytree_finished
+    1. Finished single_tree, double_tree, my_tree router algorithm.
+    2. TODO: How to calculate the strech of current path length and theoratical shortest path length.
+
+20210906
+    1. Add the report of average path strech and non-optimal fraction.
+    2. TODO: Add link failure; Automatically grow tree-id imformation.
+
+20210907
+    1. Add fault module.
+    2. Modify get_random_dest function in ipcore.cpp, for normal mode, not to generate flit of which destination is the fault node .
+
+20210908:
+    1. Add 2 fault node id tree.
+    2. TODO: Manhattan distance for fault node path is node the shortest path, how to judge? How to calculate?
